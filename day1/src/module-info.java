@@ -1,2 +1,1 @@
-module day1 {
-}
+
